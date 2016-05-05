@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AdministrarContactos</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar Datos</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcionContacto">Descripcion Contacto</string>
+    <string name="fechaNacimiento">Fecha Nacimiento</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descripcion</string>
+    <string name="pdia">dia</string>
+    <string name="pmes">mes</string>
+    <string name="panio">anio</string>
+    <string name="ldescripcion">Descripción : </string>
+    <string name="lemail">Email : </string>
+    <string name="ltelefono">Tel : </string>
+    <string name="lfecha">Fecha Nacimiento : </string>
+
+</resources>
